@@ -10,7 +10,7 @@ A collection of "Hello, World!" implementations in various programming languages
 
 Hello-World is a curated repository of "Hello, World!" programs written in various programming languages.  
 This project serves as a quick reference for comparing syntax across different languages.  
-Each file contains standalone source code, viewable and comparable directly in any plain-text editor. For runtime environments, please refer to the official documentation of each language.  
+Each file is an independent source code that can be directly viewed and compared in a text editor. For runtime environments, please refer to the official documentation of each language.  
 
 ### Categories
 
@@ -25,7 +25,7 @@ Each file contains standalone source code, viewable and comparable directly in a
 ### Features
 
 - A wide range of programming languages covered  
-- Clean, runnable code examples  
+- Clean, easy-to-read code examples  
 - Organized by language category for easy browsing  
 - Each file is independent with no external dependencies  
 - Cross-platform — works on Windows, Linux, macOS  
@@ -83,7 +83,7 @@ Email: tnailkogns@hotmail.com
 
 Hello-World 是一个收录了多种编程语言 "Hello, World!" 实现的代码仓库。  
 本仓库旨在作为快速对比不同语言语法的参考手册。  
-每个文件均为独立源代码，可直接在纯文本编辑器中浏览和对比，各语言的运行环境请参考官方文档。  
+每个文件均为独立源代码，可直接在文本编辑器中浏览和对比，各语言的运行环境请参考官方文档。  
 
 ### 分类
 
@@ -98,7 +98,7 @@ Hello-World 是一个收录了多种编程语言 "Hello, World!" 实现的代码
 ### 功能特点
 
 - 涵盖多种编程语言  
-- 代码简洁清晰，可直接运行  
+- 代码简洁清晰，易于阅读  
 - 按语言分类存放，便于查找  
 - 每个文件独立无依赖  
 - 跨平台支持：Windows、Linux、macOS  
